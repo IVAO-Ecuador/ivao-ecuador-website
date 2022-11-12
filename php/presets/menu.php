@@ -76,7 +76,7 @@
             </p>
             <ul class="children">
               <li><a href="https://wiki.ivao.aero/en/home/training/main/pilot_documentation" target="_blank">Training</a></li>
-              <li><a href="https://ec.ivao.aero/atc/documents/GUÍA-DE-USO-UNICOM-POR-VOZ.pdf" target="_blank">Guidelines for ATC Exams</a></li>
+              <li><a href="https://ec.ivao.aero/atc/documents/GUÍA-DE-USO-UNICOM-POR-VOZ.pdf" target="_blank">Manual de Voice UNICOM</a></li>
             </ul>
           </li>
 
